@@ -1,0 +1,183 @@
+.container1{
+    background-image: url(/image/banner1.jpg);
+    padding: 10px;
+    
+}
+.logo{
+    margin-left: 50px;
+    
+}
+a{
+    margin-left: 50px;
+    color: white;
+}
+a:hover{
+    color: black;
+}
+
+.header{
+    padding: 100px;
+    margin-left: 100px;
+    
+}
+ .text1{
+    font-size: 80px;
+    color: white;
+
+}
+.online{
+    font-size: 70px;
+    color: white;
+}
+.about{
+    text-align: center;
+    margin-top: 20px;
+}
+.red{
+    color: red;
+}
+.image2{
+    padding: 20px;
+
+}
+.text02{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.text2{
+    text-align: center;
+    margin: 10px;
+}
+.column{
+    padding-top: 20px;
+    border: 1px solid gray;
+    
+}
+.button1{
+    text-align: center;
+}
+.btn2{
+    margin-left: 80px;
+    margin-top: 20px;
+    width: 120px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+.btn3{
+    margin-left:400px;
+    margin-top:20px;
+    width: 120px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+.border1{
+    border-bottom: 20px solid black;
+    margin-bottom: 20px;
+}
+.blog{
+    background-image: url(/image/blog-image.jpg);
+    padding: 20px;
+}
+.games{
+    color: white;
+    padding: 150px;
+}
+.red2{
+    color: red;
+}
+.textgames{
+    margin-bottom: 15px;
+}
+.btn4{
+    width: 120px;
+    background-color: white;
+    color: black;
+    border: none; 
+}
+.red3{
+    color: red;
+}
+.paragraph1{
+    margin-top: 20px;
+}
+.lorem{
+    margin-top: 20px;
+}
+.last{
+    background-color: black;
+}
+input{
+    width: 400px;
+    color: whitesmoke;
+    background-color: black;
+}
+.roundimg1{
+    margin-left: 250px;
+    padding: 10px;
+}
+.roundimg2{
+    padding: 10px;
+}
+.roundimg3{
+    padding: 10px;
+}
+.white{
+    color: white;
+}
+#message{
+    height: 70px;
+    width: 400px;
+}
+.lastbtn{
+    background-color: white;
+    color: red;
+    width: 120px;
+    margin-bottom: 10px;
+    border: none;
+}
+.map{
+    margin-top: 40px;
+    border-top: 15px solid black;
+}
+.footer{
+    background-color: rgb(118, 40, 40);
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+@media only screen and (max-width: 600px) {
+    .container1 {height: 1000px;}
+  }
+  
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 600px) {
+    .con1 {background: green;}
+  }
+  
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (min-width: 768px) {
+    .con1 {background: blue;}
+  } 
+  
+  /* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (min-width: 992px) {
+    .con1 {background: orange;}
+  } 
+  
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (min-width: 1200px) {
+    .con1 {background: pink;}
+  }
+
+
+
+
+
+
+
